@@ -26,10 +26,6 @@ Tools: Any C++ compiler (e.g., GCC, MinGW, Turbo C++, or IDEs like Code::Blocks 
 
 Installation and Setup
 
-Clone this repository
-
-git clone https://github.com/your-username/Smart-Password-Manager.git
-
 
 Navigate to the project folder
 
