@@ -1,8 +1,8 @@
-🔐 Smart Password Manager
+Smart Password Manager
 
 The Smart Password Manager is a console-based C++ application designed to help users securely store and manage their passwords. It provides features like password encryption, authentication, and credential management through a simple and efficient command-line interface.
 
-🚀 Features
+Features
 
 User registration and login authentication
 
@@ -16,7 +16,7 @@ Random password generator
 
 Simple console interface for easy navigation
 
-🛠️ Tech Stack
+Tech Stack
 
 Language: C++
 
@@ -24,7 +24,7 @@ Concepts Used: File Handling, Encryption, Data Structures, String Manipulation
 
 Tools: Any C++ compiler (e.g., GCC, MinGW, Turbo C++, or IDEs like Code::Blocks / Visual Studio / IntelliJ with C++ plugin)
 
-⚙️ Installation and Setup
+Installation and Setup
 
 Clone this repository
 
@@ -45,7 +45,7 @@ Run the executable
 
 ./password_manager
 
-💡 Usage
+Usage
 
 Register as a new user
 
@@ -65,7 +65,7 @@ Example:
 3. Exit
 Enter your choice: 1
 
-🔒 Security
+Security
 
 Passwords are stored in encrypted format using custom encryption logic.
 
@@ -73,7 +73,7 @@ User login ensures that data is isolated per user.
 
 The system uses basic file handling to save credentials locally.
 
-🌱 Future Enhancements
+Future Enhancements
 
 GUI-based version using Qt or Python Tkinter
 
@@ -83,8 +83,8 @@ Integration with cloud storage
 
 Auto-fill capability for web logins
 
-👨‍💻 Author
+Author
 
 Amit HMH
-📧 [Your Email or GitHub Profile Link]
-💻 Passionate about C++ development and cybersecurity
+amithmh14@gmail.com
+Passionate about C++ development and cybersecurity
