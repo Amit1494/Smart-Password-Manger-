@@ -8,8 +8,6 @@ User registration and login authentication
 
 Add, view, edit, and delete saved credentials
 
-Secure password storage using encryption
-
 Password strength validation
 
 Random password generator
